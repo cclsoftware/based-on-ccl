@@ -1,6 +1,6 @@
-# Based on Crystal Class Library
+# Based on Crystal Class Library&reg;
 
-## Desktop and mobile apps
+## Desktop and Mobile Apps
 
 <table>
 	<tr>
@@ -139,6 +139,21 @@
 	</tr>
 	<tr>
 		<td valign=top>
+			<a href="https://support.fender.com/en-us/knowledgebase/article/KA-02279">Fender Device Manager</a>			
+		</td>
+		<td valign=top>
+			<ul>
+				<li>Windows</li>
+				<li>macOS</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>Device firmware update for guitar amplifiers</p>
+			<p>Features used: USB HID Support, Skins, High-DPI 2D Graphics</p>
+		</td>
+	</tr>
+	<tr>
+		<td valign=top>
 			<a href="https://support.presonus.com/hc/en-us/sections/360008126271-PreSonus-Hub">PreSonus Hub</a>			
 		</td>
 		<td valign=top>
@@ -183,6 +198,85 @@
 	</tr>
 </table>
 
+## Plug-ins and Add-ons
+
+<table>
+	<tr>
+		<th>Product</th>
+		<th>Platforms</th>
+		<th>Description</th>
+	</tr>
+	<tr>
+		<td valign=top>
+			<a href="https://www.presonus.com/pages/quantum">Fat Channel Collection</a>			
+		</td>
+		<td valign=top>
+			<ul>
+				<li>Windows</li>
+				<li>macOS</li>
+				<li>Linux</li>
+				<li>Embedded</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>EQ and compressor models</p>
+			<p>Compatible with VST3, AudioUnit, AAX, and hybrid PreSonus (native/DSP) plug-in formats</p>
+			<p>Features used: Skins, High-DPI 2D Graphics (hardware-accelerated), Software rendering, Bitmap fonts</p>
+		</td>
+	</tr>
+	<tr>
+		<td valign=top>
+			<a href="https://www.presonus.com/products/channel-strip-collection">Channel Strip Collection</a>			
+		</td>
+		<td valign=top>
+			<ul>
+				<li>Windows</li>
+				<li>macOS</li>
+				<li>Linux</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>Plug-ins modeled after hardware channel strips</p>
+			<p>Compatible with VST3, AudioUnit, AAX, and native PreSonus plug-in formats</p>
+			<p>Features used: Skins, High-DPI 2D Graphics (hardware-accelerated)</p>
+		</td>
+	</tr>
+	<tr>
+		<td valign=top>
+			<a href="https://www.presonus.com/products/ampire-high-density-pack">Ampire High Density Pack</a>			
+		</td>
+		<td valign=top>
+			<ul>
+				<li>Windows</li>
+				<li>macOS</li>
+				<li>Linux</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>Modeled amp, cabinet, and effect pedals</p>
+			<p>Compatible with VST3, AudioUnit, AAX, and native PreSonus plug-in formats</p>
+			<p>Features used: Skins, High-DPI 2D Graphics (hardware-accelerated)</p>
+		</td>
+	</tr>
+	<tr>
+		<td valign=top>
+			<a href="https://www.presonus.com/products/retro-mix-legends-3-pack">Retro Mix Legends</a>			
+		</td>
+		<td valign=top>
+			<ul>
+				<li>Windows</li>
+				<li>macOS</li>
+				<li>Linux</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>Modeled classic mixing consoles</p>
+			<p>Compatible with VST3, AudioUnit, AAX, and native PreSonus plug-in formats</p>
+			<p>Features used: Skins, High-DPI 2D Graphics (hardware-accelerated)</p>
+		</td>
+	</tr>
+</table>
+
 ## Embedded Products
 
 <table>
@@ -193,7 +287,7 @@
 	</tr>
 	<tr>
 		<td valign=top>
-			<a href="https://www.presonus.com/pages/quantum">Quantum HD/ES</a>			
+			<a href="https://www.presonus.com/pages/quantum">Quantum HD/ES Series</a>			
 		</td>
 		<td valign=top>
 			<ul>
