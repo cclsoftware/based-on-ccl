@@ -208,7 +208,7 @@
 	</tr>
 	<tr>
 		<td valign=top>
-			<a href="https://www.presonus.com/pages/quantum">Fat Channel Collection</a>			
+			<a href="https://www.presonus.com/products/fat-channel-collection-vol-1">Fat Channel Collection</a>			
 		</td>
 		<td valign=top>
 			<ul>
