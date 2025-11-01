@@ -76,6 +76,21 @@
 	</tr>
 	<tr>
 		<td valign=top>
+			<a href="https://www.presonus.com/pages/qmix-uc">QMix-UC</a>			
+		</td>
+		<td valign=top>
+			<ul>
+				<li>iOS/iPadOS</li>
+				<li>Android</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>Wireless aux mix control app</p>
+			<p>Features used: Skins, High-DPI 2D Graphics (hardware-accelerated), Multi-touch</p>
+		</td>
+	</tr>
+	<tr>
+		<td valign=top>
 			<a href="https://www.presonus.com/pages/notion-mobile">Notion Mobile</a>			
 		</td>
 		<td valign=top>
@@ -164,6 +179,99 @@
 		<td valign=top>
 			<p>Productivity application</p>
 			<p>Features used: Based on CCL 2.x, developed between 1998-2002 (discontinued)</p>
+		</td>
+	</tr>
+</table>
+
+## Embedded Products
+
+<table>
+	<tr>
+		<th>Product</th>
+		<th>Platform</th>
+		<th>Description</th>
+	</tr>
+	<tr>
+		<td valign=top>
+			<a href="https://www.presonus.com/pages/quantum">Quantum HD/ES</a>			
+		</td>
+		<td valign=top>
+			<ul>
+				<li>MCU: ARM Cortex-M7</li>
+				<li>OS: CMSIS-RTOS RTX</li>
+				<li>LCD: 240x240px RGB565</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>USB audio interfaces</p>
+			<p>Features used: Software rendering, Bitmap fonts, GUI for LCD created with <a href="https://ccl.dev/tools">CCL Skin Editor</a></p>
+		</td>
+	</tr>
+	<tr>
+		<td valign=top>
+			<a href="https://www.presonus.com/collections/revelator-series-audio-interfaces">Revelator Series</a>			
+		</td>
+		<td valign=top>
+			<ul>
+				<li>MCU: ARM Cortex-M7</li>
+				<li>OS: CMSIS-RTOS RTX</li>
+				<li>LCD: 240x135px RGB565</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>Audio interfaces and USB microphones</p>
+			<p>Features used: Software rendering, Bitmap fonts, GUI for LCD created with <a href="https://ccl.dev/tools">CCL Skin Editor</a></p>
+		</td>
+	</tr>
+	<tr>
+		<td valign=top>
+			<a href="https://www.presonus.com/collections/mixers">StudioLive Series III</a>			
+		</td>
+		<td valign=top>
+			<ul>
+				<li>MCU: ARM Cortex-M4</li>
+				<li>DSP: SHARC</li>
+				<li>OS: Custom RTOS</li>
+				<li>LCD: 800x480px RGB565</li>
+				<li>and 64x96px Monochrome</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>Digital mixing system with networked stage boxes and personal monitor mixer</p>
+			<p>Features used: Software rendering, Bitmap fonts, Gesture recognition, Skins, Extensions, Networking</p>
+		</td>
+	</tr>
+	<tr>
+		<td valign=top>
+			<a href="https://www.presonus.com/collections/controllers">FaderPort Series</a>			
+		</td>
+		<td valign=top>
+			<ul>
+				<li>MCU: ARM Cortex-M4</li>
+				<li>OS: Custom RTOS</li>
+				<li>LCD: 64x96px Monochrome</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>USB MIDI control surfaces</p>
+			<p>Features used: Software rendering, Bitmap fonts</p>
+		</td>
+	</tr>
+	<tr>
+		<td valign=top>
+			<a href="https://www.presonus.com/collections/mixers">StudioLive AI Series</a>			
+		</td>
+		<td valign=top>
+			<ul>
+				<li>MCU: OMAP</li>
+				<li>OS: Linux</li>
+				<li>LCD: 480x272px RGB565</li>
+				<li>and 64x96px Monochrome</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>Digital mixing system and network control surface by PreSonus</p>
+			<p>Features used: Software rendering, Bitmap fonts, Gesture recognition, Skins, Networking</p>
 		</td>
 	</tr>
 </table>
