@@ -237,7 +237,7 @@
 		</td>
 		<td valign=top>
 			<p>Plug-ins modeled after hardware channel strips</p>
-			<p>Compatible with VST3, AudioUnit, AAX, and native PreSonus plug-in formats</p>
+			<p>Compatible with VST3, AudioUnit, AAX, and native PreSonus plug-in format</p>
 			<p>Features used: Skins, High-DPI 2D Graphics (hardware-accelerated)</p>
 		</td>
 	</tr>
@@ -254,7 +254,7 @@
 		</td>
 		<td valign=top>
 			<p>Modeled amp, cabinet, and effect pedals</p>
-			<p>Compatible with VST3, AudioUnit, AAX, and native PreSonus plug-in formats</p>
+			<p>Compatible with VST3, AudioUnit, AAX, and native PreSonus plug-in format</p>
 			<p>Features used: Skins, High-DPI 2D Graphics (hardware-accelerated)</p>
 		</td>
 	</tr>
@@ -271,7 +271,7 @@
 		</td>
 		<td valign=top>
 			<p>Modeled classic mixing consoles</p>
-			<p>Compatible with VST3, AudioUnit, AAX, and native PreSonus plug-in formats</p>
+			<p>Compatible with VST3, AudioUnit, AAX, and native PreSonus plug-in format</p>
 			<p>Features used: Skins, High-DPI 2D Graphics (hardware-accelerated)</p>
 		</td>
 	</tr>
@@ -364,7 +364,7 @@
 			</ul>
 		</td>
 		<td valign=top>
-			<p>Digital mixing system and network control surface by PreSonus</p>
+			<p>Digital mixing system and network control surface</p>
 			<p>Features used: Software rendering, Bitmap fonts, Gesture recognition, Skins, Networking</p>
 		</td>
 	</tr>
