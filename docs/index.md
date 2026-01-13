@@ -10,7 +10,8 @@
 	</tr>
 	<tr>
 		<td valign=top>
-			<a href="https://www.presonus.com/pages/studio-one-pro">Studio One</a>			
+			<a href="https://www.presonus.com/pages/studio-one-pro">Studio One</a> / 		
+			<a href="https://www.fender.com/pages/fender-studio-pro">Studio Pro</a>
 		</td>
 		<td valign=top>
 			<ul>
