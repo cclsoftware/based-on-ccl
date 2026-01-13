@@ -288,7 +288,7 @@
 	</tr>
 	<tr>
 		<td valign=top>
-			<a href="https://www.presonus.com/pages/quantum">Quantum HD/ES Series</a>			
+			<a href="https://www.fender.com/collections/fender-quantum-audio-interfaces">Quantum HD/ES/LT Series</a>			
 		</td>
 		<td valign=top>
 			<ul>
