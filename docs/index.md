@@ -155,7 +155,7 @@
 	</tr>
 	<tr>
 		<td valign=top>
-			<a href="https://support.presonus.com/hc/en-us/sections/360008126271-PreSonus-Hub">PreSonus Hub</a>			
+			<a href="https://support.presonus.com/hc/en-us/sections/360008126271-PreSonus-Hub">PreSonus Hub / Studio Hub</a>			
 		</td>
 		<td valign=top>
 			<ul>
