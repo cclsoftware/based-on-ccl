@@ -110,7 +110,7 @@
 	</tr>
 	<tr>
 		<td valign=top>
-			<a href="https://support.fender.com/en-us/knowledgebase/article/KA-02092">Fender Tone</a>			
+			<a href="https://support.fender.com/hc/en-us/sections/42423516163099-FENDER-TONE">Fender Tone</a>			
 		</td>
 		<td valign=top>
 			<ul>
@@ -125,7 +125,7 @@
 	</tr>
 	<tr>
 		<td valign=top>
-			<a href="https://support.fender.com/en-us/knowledgebase/article/KA-02065">IR Manager</a>			
+			<a href="https://support.fender.com/hc/en-us/articles/42521932241819-Fender-Tone-Master-Deluxe-Reverb-Firmware-and-IR-Manager-App-Update">IR Manager</a>			
 		</td>
 		<td valign=top>
 			<ul>
@@ -140,7 +140,7 @@
 	</tr>
 	<tr>
 		<td valign=top>
-			<a href="https://support.fender.com/en-us/knowledgebase/article/KA-02279">Fender Device Manager</a>			
+			<a href="https://support.fender.com/hc/en-us/articles/42658735350299-How-do-I-update-the-firmware-on-my-Mustang-LTX">Fender Device Manager</a>			
 		</td>
 		<td valign=top>
 			<ul>
@@ -320,7 +320,7 @@
 	</tr>
 	<tr>
 		<td valign=top>
-			<a href="https://www.presonus.com/collections/mixers">StudioLive Series III</a>			
+			<a href="https://www.presonus.com/pages/studiolive">StudioLive Series III</a>			
 		</td>
 		<td valign=top>
 			<ul>
