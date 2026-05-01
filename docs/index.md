@@ -125,7 +125,22 @@
 	</tr>
 	<tr>
 		<td valign=top>
-			<a href="https://support.fender.com/hc/en-us/articles/42521932241819-Fender-Tone-Master-Deluxe-Reverb-Firmware-and-IR-Manager-App-Update">IR Manager</a>			
+			<a href="https://support.fender.com/hc/en-us/articles/42521932241819-Fender-Tone-Master-Deluxe-Reverb-Firmware-and-IR-Manager-App-Update">IR Manager</a>
+		</td>
+		<td valign=top>
+			<ul>
+				<li>Windows</li>
+				<li>macOS</li>
+			</ul>
+		</td>
+		<td valign=top>
+			<p>Companion app for guitar amplifiers</p>
+			<p>Features used: USB HID Support, Skins, High-DPI 2D Graphics</p>
+		</td>
+	</tr>
+	<tr>
+		<td valign=top>
+			<a href="https://www.evhgear.com/support">EVH IR Manager</a>			
 		</td>
 		<td valign=top>
 			<ul>
